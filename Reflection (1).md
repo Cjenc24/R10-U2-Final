@@ -1,0 +1,7 @@
+What I learned?
+In this project, I learned how to better use quite a few of the six things. Starting with conditionals, while I wouldn't necessarily say there were a LOT in this project particularly, I still used them for keep presses initiating actions and reseting the state of the zoom. I also practiced using more functionality such as translate, which I have used in a past project, but my repition with it shows my understanding. Furthermore, I would definitely say variable usage was a pretty big aspect of the project, I had to define quite a few variables to get each part of my code to work (I wouldn't say that I learned this however, just because I've used it so much). Arrays and loops were vital to this code functioning. Without being able to loop through the data or retrieve it in arrays I would not have been able to separate the data by month or even display it properly. And in terms of functionality, I continued using the splice function to separate my dates (which I still think was a super helpful find). 
+Revisions?
+Looking back at this project I decided to revise it by adding an instruction blurb because I felt like without it, some users would be a little too confused. I also originally had the column labels traveling WITH the data dots but that proved to be a lot messier looking so I added the different colors and created the key to help organize. 
+
+What I didn't know the 1st time?
+I didn't know why one of my columns was not displaying. I later realized this was yet another issue with the data table but managed to fix it in my revisions. 
